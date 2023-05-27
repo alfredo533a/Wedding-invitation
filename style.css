@@ -1,6 +1,6 @@
 body{
     /*background-color: #474973;*/
-    background-image: url("forest.jpg");
+    background-image: url("/forest.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed ;
     background-position: bottom;
